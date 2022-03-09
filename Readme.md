@@ -1,4 +1,4 @@
-# JavaQuest08
+# CollectionQuest01
 SEA8 - Quest: Collection 01: List
 
 Challenge: Infinity War
